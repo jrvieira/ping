@@ -10,4 +10,4 @@ var engine = setInterval(function () {
         }
 	    
     })
-}, 500);
+}, 700);
